@@ -1,4 +1,8 @@
 package baseline.functions;
+/*
+ *  UCF COP3330 Fall 2021 Application Assignment 1 Solution 1
+ *  Copyright 2021 Alexys Veloz
+ */
 
 public class Mark {
     /* By default items aren't completed, but items can be completed via being checked.

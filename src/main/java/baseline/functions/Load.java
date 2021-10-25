@@ -1,7 +1,10 @@
 package baseline.functions;
 
 import java.io.File;
-
+/*
+ *  UCF COP3330 Fall 2021 Application Assignment 1 Solution 1
+ *  Copyright 2021 Alexys Veloz
+ */
 public class Load {
     /*this is all about getting  the txt file they must've had previously in order to load it. If for some reason
     it isn't in the format that lister makes it, return an error that this, it isn't a valid lister to load.

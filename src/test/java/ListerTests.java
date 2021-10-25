@@ -1,6 +1,9 @@
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-
+/*
+ *  UCF COP3330 Fall 2021 Application Assignment 1 Solution 1
+ *  Copyright 2021 Alexys Veloz
+ */
 
 import java.util.ArrayList;
 

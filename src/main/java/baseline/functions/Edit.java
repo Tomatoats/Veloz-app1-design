@@ -2,6 +2,10 @@ package baseline.functions;
 
 import java.util.ArrayList;
 import java.util.List;
+/*
+ *  UCF COP3330 Fall 2021 Application Assignment 1 Solution 1
+ *  Copyright 2021 Alexys Veloz
+ */
 
 public class Edit {
     /*This class is going to take in whatever text field is going to be edited, whether list name, title, due date, or

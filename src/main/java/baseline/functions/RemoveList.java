@@ -1,6 +1,10 @@
 package baseline.functions;
 
 import java.util.ArrayList;
+/*
+ *  UCF COP3330 Fall 2021 Application Assignment 1 Solution 1
+ *  Copyright 2021 Alexys Veloz
+ */
 
 public class RemoveList {
     /*This will take  the list and delete it, making changes to the .txt to delete its progress as well.

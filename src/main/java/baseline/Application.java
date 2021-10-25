@@ -7,7 +7,10 @@ import javafx.scene.Scene;
 import javafx.stage.Stage;
 
 import static javafx.application.Application.launch;
-
+/*
+ *  UCF COP3330 Fall 2021 Application Assignment 1 Solution 1
+ *  Copyright 2021 Alexys Veloz
+ */
 
 public class Application extends javafx.application.Application {
     public void start(Stage stage) throws Exception {
