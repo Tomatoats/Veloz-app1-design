@@ -34,7 +34,7 @@
                 <Insets bottom="50.0" left="170.0" />
             </GridPane.margin>
         </Button>
-        <Button contentDisplay="RIGHT" mnemonicParsing="false" text="Make a New List" GridPane.rowIndex="1">
+        <Button fx:id="myButton" contentDisplay="RIGHT" mnemonicParsing="false" text="Make a New List" GridPane.rowIndex="1">
             <font>
                 <Font size="30.0" />
             </font>
@@ -44,4 +44,3 @@
         </Button>
     </children>
 </GridPane>
-
